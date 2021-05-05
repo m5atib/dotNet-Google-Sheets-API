@@ -13,32 +13,31 @@ namespace dotNet_Google_Sheets_API
     public class GoogleSheetsAPI
     {
     
+        //here put your sheet and client informtion.
         private const string SpreadsheetId = "";
         private const string clientId = "";
         private const string clientSecret = "";
         private const string APPname = "";
+
         private SpreadsheetsResource.ValuesResource serviceValues;
         
        
      
 
-
+        //this method to connect the app with your google api account.
         private SheetsService GetSheetsService()
         {
 
             try
             {
                 string[] scopes = { SheetsService.Scope.Spreadsheets };
-                var credential = GoogleWebAuthorizationBroker.AuthorizeAsync(new ClientSecrets { ClientId = clientId, ClientSecret = clientSecret },
-
+                var credential = GoogleWebAuthorizationBroker.AuthorizeAsync(
+                    new ClientSecrets { ClientId = clientId, ClientSecret = clientSecret },
                     scopes, Environment.UserName, CancellationToken.None, new FileDataStore("MyAppsToken")).Result;
 
                 var serviceInitializer = new BaseClientService.Initializer()
-                {
-                    HttpClientInitializer = credential,
-                    ApplicationName = APPname,
+                { HttpClientInitializer = credential, ApplicationName = APPname,};
 
-                };
                 return new SheetsService(serviceInitializer);
             }
             catch
@@ -48,6 +47,8 @@ namespace dotNet_Google_Sheets_API
             }
             
         }
+        
+        //to get data from sheet pages
         public IList<IList<object>> GetValuesInSheet(string SheetName)
         {
             try
@@ -72,6 +73,7 @@ namespace dotNet_Google_Sheets_API
 
         }
 
+        //to write data on sheet page
         public void WriteAsync(string WriteRange, List<object> row)
         {
             serviceValues = GetSheetsService().Spreadsheets.Values;
