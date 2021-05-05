@@ -1,0 +1,24 @@
+C:\Users\Admin\Desktop\C# Projects Testing\dotNet Google Sheets API\dotNet Google Sheets API\obj\Debug\dotNet Google Sheets API.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C# Projects Testing\dotNet Google Sheets API\dotNet Google Sheets API\obj\Debug\dotNet Google Sheets API.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Projects Testing\dotNet Google Sheets API\dotNet Google Sheets API\bin\Debug\dotNet Google Sheets API.exe.config
+C:\Users\Admin\Desktop\C# Projects Testing\dotNet Google Sheets API\dotNet Google Sheets API\bin\Debug\dotNet Google Sheets API.exe
+C:\Users\Admin\Desktop\C# Projects Testing\dotNet Google Sheets API\dotNet Google Sheets API\bin\Debug\dotNet Google Sheets API.pdb
+C:\Users\Admin\Desktop\C# Projects Testing\dotNet Google Sheets API\dotNet Google Sheets API\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Admin\Desktop\C# Projects Testing\dotNet Google Sheets API\dotNet Google Sheets API\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Admin\Desktop\C# Projects Testing\dotNet Google Sheets API\dotNet Google Sheets API\bin\Debug\Google.Apis.Core.dll
+C:\Users\Admin\Desktop\C# Projects Testing\dotNet Google Sheets API\dotNet Google Sheets API\bin\Debug\Google.Apis.dll
+C:\Users\Admin\Desktop\C# Projects Testing\dotNet Google Sheets API\dotNet Google Sheets API\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Admin\Desktop\C# Projects Testing\dotNet Google Sheets API\dotNet Google Sheets API\bin\Debug\Google.Apis.Sheets.v4.dll
+C:\Users\Admin\Desktop\C# Projects Testing\dotNet Google Sheets API\dotNet Google Sheets API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\C# Projects Testing\dotNet Google Sheets API\dotNet Google Sheets API\bin\Debug\Google.Apis.pdb
+C:\Users\Admin\Desktop\C# Projects Testing\dotNet Google Sheets API\dotNet Google Sheets API\bin\Debug\Google.Apis.xml
+C:\Users\Admin\Desktop\C# Projects Testing\dotNet Google Sheets API\dotNet Google Sheets API\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Admin\Desktop\C# Projects Testing\dotNet Google Sheets API\dotNet Google Sheets API\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Admin\Desktop\C# Projects Testing\dotNet Google Sheets API\dotNet Google Sheets API\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Admin\Desktop\C# Projects Testing\dotNet Google Sheets API\dotNet Google Sheets API\bin\Debug\Google.Apis.Core.xml
+C:\Users\Admin\Desktop\C# Projects Testing\dotNet Google Sheets API\dotNet Google Sheets API\bin\Debug\Google.Apis.Sheets.v4.pdb
+C:\Users\Admin\Desktop\C# Projects Testing\dotNet Google Sheets API\dotNet Google Sheets API\bin\Debug\Google.Apis.Sheets.v4.xml
+C:\Users\Admin\Desktop\C# Projects Testing\dotNet Google Sheets API\dotNet Google Sheets API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\C# Projects Testing\dotNet Google Sheets API\dotNet Google Sheets API\obj\Debug\dotNet Google Sheets API.csproj.CopyComplete
+C:\Users\Admin\Desktop\C# Projects Testing\dotNet Google Sheets API\dotNet Google Sheets API\obj\Debug\dotNet Google Sheets API.exe
+C:\Users\Admin\Desktop\C# Projects Testing\dotNet Google Sheets API\dotNet Google Sheets API\obj\Debug\dotNet Google Sheets API.pdb
